@@ -20,4 +20,4 @@ Olá, primeiramente sejam todos muito bem-vindos ao meu perfil do "GitHub", abai
 <img align="center" alt="cplusplus" width="36px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 <img align="center" alt="html" width="36px" src="https://img.icons8.com/color/48/000000/html-5.png"/>
 
-(Ruby 2.7.2)
+[(Ruby 2.7.2)](https://www.ruby-lang.org/en/news/2020/10/02/ruby-2-7-2-released/)
